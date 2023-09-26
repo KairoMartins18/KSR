@@ -1,7 +1,7 @@
 <p align="center">
   <img src="/quick-screen-recorder/resources/imgs/rec96.png">
 </p>
-<h1 align="center">Quick Screen Recorder</h1>
+<h1 align="center">Screen Recorder</h1>
 
 <p align="center">
   Quick Screen Recorder is a lightweight desktop screen recorder for Windows, built on top of WinForms (C#).
