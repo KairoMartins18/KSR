@@ -1,7 +1,7 @@
 <p align="center">
   <img src="/quick-screen-recorder/resources/imgs/rec96.png">
 </p>
-<h1 align="center">Screen Recorder</h1>
+<h1 align="center">Kairoware Screen Recorder</h1>
 
 <p align="center">
   Quick Screen Recorder is a lightweight desktop screen recorder for Windows, built on top of WinForms (C#).
@@ -34,8 +34,7 @@
 - Cursor capturing<br>
 - Ability to record system sounds or a microphone
 
-<h2 align="center">Other "Quick" apps</h2>
+<h2 align="center">This is a distro and fork of the quick screen recorder project, all rights reserved to the original authors of the project</h2>
 <p align="center">
-  <a href="https://github.com/ModuleArt/quick-picture-viewer/">Quick Picture Viewer</a> - Lightweight, versatile desktop photo viewer for Windows<br>
-  <a href="https://github.com/ModuleArt/quick-color-picker/">Quick Color Picker</a> - Lightweight desktop color picker and color editor utility for Windows
+  <a href="https://github.com/ModuleArt/quick-screen-recorder/">Quick Screen Recorder Source.</a>
 </p>
